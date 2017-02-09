@@ -1,4 +1,4 @@
-package com.bosch.bexirk.sampleapplication;
+package com.bosch.bexirk.SampleProject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

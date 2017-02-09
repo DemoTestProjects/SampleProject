@@ -1,4 +1,4 @@
-package com.bosch.bexirk.sampleapplication;
+package com.bosch.bexirk.SampleProject;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
